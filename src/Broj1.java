@@ -1,4 +1,4 @@
-
+default project;
 public class Broj1 {
 		  private int number1;
 		    private int number2;

@@ -1,4 +1,4 @@
-
+default project;
 	 //Главна класа Broj2
 		public class Broj2 {
 		   public static void main(String[] args) {
